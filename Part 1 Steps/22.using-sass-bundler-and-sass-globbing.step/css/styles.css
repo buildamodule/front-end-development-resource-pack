@@ -1,0 +1,90 @@
+body {
+  font-weight: 100;
+  color: #7a7a7a; }
+
+h1, h2, h3 {
+  font-weight: 100; }
+
+p {
+  line-height: 1.7; }
+
+.icon_box {
+  background-color: #e8e8e8;
+  padding: 2px; }
+  .icon_box > p {
+    font-size: 0.875rem; }
+  .icon_box-title {
+    font-size: 1.625rem;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    text-align: center; }
+
+.site_footer {
+  background-color: #515151;
+  color: #aeaeae;
+  padding: 2.125rem 1.875rem; }
+  .site_footer > p {
+    margin-top: 0.1875em;
+    margin-bottom: 0.1875em; }
+  .site_footer-copyright {
+    color: white;
+    font-weight: 400; }
+  .site_footer-nav {
+    text-align: center;
+    margin-bottom: 0.5625em;
+    width: 27rem;
+    margin-left: auto;
+    margin-right: auto; }
+    .site_footer-nav a:hover, .site_footer-nav a:visited, .site_footer-nav a:link, .site_footer-nav a:active {
+      color: white;
+      text-transform: uppercase;
+      text-decoration: none;
+      margin-left: 0.625em;
+      margin-right: 0.625em; }
+  .site_footer-nav--alt {
+    padding-top: 0.8125em;
+    border-top: #5d5d5d solid 1px; }
+    .site_footer-nav--alt a:hover, .site_footer-nav--alt a:visited, .site_footer-nav--alt a:link, .site_footer-nav--alt a:active {
+      color: #aeaeae; }
+
+.slide {
+  background-color: #515151;
+  padding: 3px; }
+  .slide > .slide-title {
+    font-size: 2.75rem;
+    color: white;
+    margin-bottom: .5em; }
+  .slide > p {
+    color: white;
+    font-size: 1.125rem; }
+
+.snippet > p {
+  font-size: 0.875rem; }
+.snippet-title {
+  font-size: 1.5rem;
+  margin-bottom: .7em; }
+.snippet-attribution {
+  font-style: italic; }
+  .snippet-attribution > a {
+    color: #515151; }
+    .snippet-attribution > a:hover, .snippet-attribution > a:visited, .snippet-attribution > a:link, .snippet-attribution > a:active {
+      color: #515151; }
+
+.stacked_hero_section-title {
+  font-size: 2.125rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #DADADA;
+  text-align: center;
+  padding-bottom: .8em;
+  margin-bottom: .9em; }
+
+.stacked_hero_section--alt {
+  background-color: #e8e8e8;
+  padding: 1.5625rem 7.5625rem; }
+  .stacked_hero_section--alt > .stacked_hero_section-title {
+    border-bottom-color: white; }
+
+/*# sourceMappingURL=styles.css.map */

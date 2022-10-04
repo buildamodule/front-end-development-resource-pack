@@ -1,0 +1,68 @@
+body {
+  font-family: sans-serif;
+  font-weight: 100;
+  color: #6D6D6D;
+}
+h1, h2, h3 {
+  font-weight: 100;
+}
+p {
+  line-height: 170%;
+}
+.stacked_hero_section-title {
+  font-size: 34px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #DADADA;
+  text-align: center;
+  padding-bottom: 28px;
+  margin-bottom: 32px;
+}
+.stacked_hero_section--alt {
+  background-color: #e8e8e8;
+  padding: 25px 121px;
+}
+.stacked_hero_section--alt > .stacked_hero_section-title {
+  border-bottom-color: white;
+}
+.slide {
+  background-color: #60635F;
+  padding: 3px;
+}
+.slide > .slide-title {
+  font-size: 44px;
+  color: white;
+  margin-bottom: 22px;
+}
+.slide > p {
+  color: white;
+  font-size:18px;
+}
+.icon_box {
+  background-color: #E6E6E6;
+  padding: 2px;
+}
+.icon_box-title {
+  font-size: 26px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.icon_box > p {
+  font-size: 14px;
+}
+.snippet-title {
+  font-size: 24px;
+  margin-bottom: 17px;
+}
+.snippet > p {
+  font-size: 14px;
+}
+.snippet-attribution {
+  font-style: italic;
+}
+.snippet-attribution > a, .snippet-attribution > a:hover, .snippet-attribution > a:visited, .snippet-attribution > a:link, .snippet-attribution > a:active {
+  color: #6D6D6D;
+}

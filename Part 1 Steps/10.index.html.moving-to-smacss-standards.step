@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>NEW Basic HTML and CSS examples</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+<img src="slider-heading.png" >
+
+<section class="slide">
+  <h1 class="slide-title">More than just a company</h1>
+</section>
+
+<section class="stacked_hero_section">
+  <h2 class="stacked_hero_section-title">Qualities</h2>
+</section>
+
+<section class="stacked_hero_section stacked_hero_section--alt">
+  <h2 class="stacked_hero_section-title">Written by Our Team</h2>
+</section>
+
+<section class="stacked_hero_section">
+  <h2 class="stacked_hero_section-title">Contact Us</h2>
+</section>
+
+</body>
+</html>

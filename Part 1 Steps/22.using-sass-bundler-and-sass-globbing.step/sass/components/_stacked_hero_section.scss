@@ -1,0 +1,20 @@
+.stacked_hero_section-title {
+  font-size: px2rem(34);
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: $medium-gray;
+  text-align: center;
+  padding-bottom: .8em;
+  margin-bottom: .9em;
+}
+.stacked_hero_section--alt {
+  background-color: $light-gray;
+  padding: px2rem(25) px2rem(121);
+  > .stacked_hero_section-title {
+    border-bottom-color: $white;
+  }
+}
+
+// TODO: Figure out what happened to color of headings, it looks  too dark now.

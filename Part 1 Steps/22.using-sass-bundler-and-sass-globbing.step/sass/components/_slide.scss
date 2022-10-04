@@ -1,0 +1,13 @@
+.slide {
+  background-color: $dark-gray;
+  padding: 3px;
+  & > &-title {
+    font-size: px2rem(44);
+    color: $white;
+    margin-bottom: .5em;
+  }
+  > p {
+    color: $white;
+    font-size: px2rem(18);
+  }
+}
